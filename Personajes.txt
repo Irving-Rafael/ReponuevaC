@@ -1,0 +1,15 @@
+Inspiron
+DELL
+Intel
+12
+
+All-in-one
+hp
+AMD
+8
+
+Atom
+Intel
+Intel
+16
+

@@ -49,24 +49,3 @@ int Computadora::get_ram()
 {
     return ram;
 }
-
-using namespace std;
-int main()
-{
-    Laboratorio lb;
-
-    Computadora a = Computadora();
-    a.set_modelo("Inspiron");
-    a.set_marca("DELL");
-    a.set_procesador("Intel");
-    a.set_ram(12);
-
-    lb.agregarComputadora(a);
-
-    lb.mostrar();
-
-
-
-    return 0;
-
-};
